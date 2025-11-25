@@ -9,6 +9,8 @@ It has two parts:
 
 Projects are free to adapt this, but if you claim to follow it, you should follow it in practice, not only in words.
 
+**Status:** v1.0 draft – feedback from maintainers and contributors welcome.
+
 ---
 
 ## 1. Purpose and scope
