@@ -10,7 +10,7 @@ It is written so any project can:
 - Use it as a checklist to stop wasting contributor time
 
 
-**Status:** v1.0 draft – feedback from maintainers and contributors welcome.
+**Status:** v1.1.0 draft – feedback from maintainers and contributors welcome.
 
 Projects are free to adapt this, but if you claim to follow it, you should follow it in practice, not only in words.
 
