@@ -1,8 +1,8 @@
 # Community SLA and Contributor Rights
 
-A no bullshit Community SLA and Contributor Bill of Rights for open source projects.
+This document is a no-BS Community SLA and Contributor Bill of Rights for community spaces and open source projects to adopt and follow.
 
-Most OSS projects run on unpaid labor. Too many treat that labor as disposable. This repo sets a clear standard for what contributors can reasonably expect, and what maintainers should commit to if they care about a healthy community.
+The truth is, most OSS projects run on unpaid labor. Too many treat that labor as disposable. This Document and repo aim to set a clear standard for what contributors can reasonably expect, and what maintainers should commit to if they care about a healthy community.
 
 ---
 
